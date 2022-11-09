@@ -9,3 +9,6 @@ Link to the data source : https://ride.divvybikes.com/system-data
 MYSQL Workbench 8.0 was used for initial exploration, cleaning and analysis of the data.  
 Visualization was done using Tableau.  
 Link to viz : https://public.tableau.com/app/profile/arya.s.kumar/viz/DivvyTripdataViz/TripPercentagebyRiderType
+
+To know more about this case study, here is the link to the medium article explaining the whole process:
+https://medium.com/@arya98kumar/cyclistic-case-study-c8b8db4f8e69
